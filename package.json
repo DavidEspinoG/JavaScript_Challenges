@@ -1,0 +1,23 @@
+{
+  "name": "javascript_challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidEspinoG/JavaScript_Challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidEspinoG/JavaScript_Challenges/issues"
+  },
+  "homepage": "https://github.com/DavidEspinoG/JavaScript_Challenges#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
